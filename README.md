@@ -15,7 +15,7 @@
 - Mac : `/Users/[user]/Library/Application Support/AsepQuiz/`
 - Windows : `C:\Users\[user]\AppData\Roaming\AsepQuiz\`
 ---
-ΑΣΕΠ Quiz Group 2 [εδώ](https://github.com/GDKO/asep_2025_group1)
+ΑΣΕΠ Quiz Group 2 [εδώ](https://github.com/GDKO/asep_2025_group2)
 
 ---
 Αν θέλετε κεράστε με ένα καφεδάκι και καλή επιτυχία
