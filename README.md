@@ -11,6 +11,9 @@
   - Προτεραιότητα έχουν οι ερωτήσεις που έχουν απαντηθεί λάθος καθώς και οι ερώτησεις που έχουν καιρό να επιλεχθούν
   - Στατιστικά στο τέλος του τεστ   
 
+### Αποθήκευση δεδομένων χρηστών
+- Mac : /Users/[user]/Library/Application Support/AsepQuiz/
+- Windows : C:\Users\[user]\AppData\Roaming\AsepQuiz/
 ---
 ΑΣΕΠ Quiz Group 2 [εδώ](https://github.com/GDKO/asep_2025_group1)
 
